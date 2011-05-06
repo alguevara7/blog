@@ -5,6 +5,7 @@
 # Home page
 GET     /                                       Application.index
 GET     /posts/{id}                             Application.show
+GET     /captcha                                Application.captcha
 
 POST    /posts/{postId}/comments                Application.postComment
 
