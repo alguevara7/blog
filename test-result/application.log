@@ -1,5 +1,5 @@
-04 May 2011 23:53:34,488 INFO  ~ Starting /Users/alexguev/SourceCode/blog
-04 May 2011 23:53:34,796 WARN  ~ You're running Play! in DEV mode
-04 May 2011 23:53:34,930 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
-04 May 2011 23:53:44,868 INFO  ~ Connected to jdbc:hsqldb:mem:playembed
-04 May 2011 23:53:45,558 INFO  ~ Application 'blog' is now started !
+07 May 2011 00:11:44,910 INFO  ~ Starting /Users/alexguev/SourceCode/blog
+07 May 2011 00:11:46,252 WARN  ~ You're running Play! in DEV mode
+07 May 2011 00:11:46,453 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+07 May 2011 00:11:51,473 INFO  ~ Connected to jdbc:hsqldb:mem:playembed
+07 May 2011 00:11:52,497 INFO  ~ Application 'blog' is now started !

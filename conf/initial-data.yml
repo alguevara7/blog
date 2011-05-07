@@ -1,5 +1,18 @@
 # Test data
 
+Tag(play):
+    name:           Play
+ 
+Tag(architecture):
+    name:           Architecture
+ 
+Tag(test):
+    name:           Test
+ 
+Tag(mvc):
+    name:           MVC 
+
+
 User(bob):
     email:          bob@gmail.com
     password:       secret
@@ -32,6 +45,10 @@ Post(secondBobPost):
     author:         bob
     content:        >
                     Well, it's just a test.
+    tags:           
+                    - play
+                    - architecture
+                    - mvc
                     
 Post(jeffPost):
     title:          The MVC application
